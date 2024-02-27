@@ -1,6 +1,6 @@
 
 
-### Repository Name: Face-Detection-OpenCV
+# Repository Name: Face-Detection-OpenCV
 
 #### Description:
 This repository contains a simple Python script using the OpenCV library for real-time face detection from a webcam feed. The script uses a pre-trained Haar Cascade classifier to detect faces in each frame captured from the webcam.
